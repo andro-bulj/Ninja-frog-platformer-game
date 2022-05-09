@@ -1,0 +1,124 @@
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Andro\Desktop\Projekt\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Andro\Desktop\Projekt\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Andro\Desktop\Projekt\Projekt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Andro\Desktop\Projekt\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Andro\Desktop\Projekt\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Andro\Desktop\Projekt\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Andro\Desktop\Projekt\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Andro\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Andro\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Andro\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Andro\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Andro\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Andro\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Andro\Desktop\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Andro\Desktop\Projekt\Projekt\OTTER\bin\Debug\sprites\MainCharSheet.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Floor.jpg
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Banana.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Apple.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Melon.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\backgrounds\bgGreen.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\GrassBlock.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\ghostSheet.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\frogSheet.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\GrassBlockBig.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\WallLeft.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\WallRight.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\backgrounds\bgPurple.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Saw.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Spikes.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Loading.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Floor2.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\GrassBlock2.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\GrassBlockBig2.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\WallLeft2.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\WallRight2.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Floor3.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\GrassBlock3.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\GrassBlockBig3.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\WallLeft3.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\WallRight3.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\GrassPlatform.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\GrassPlatformShort.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\plantSheet.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\turtleSheet.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\WoodPlatform.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\WoodPlatformShort.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\backgrounds\bgBrown.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\plantBullet.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\trunkBullet.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\trunkSheet.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\igrajOpet.png
+C:\Users\Andro\Desktop\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Odustani.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\backgrounds\bgBrown.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\backgrounds\bgGreen.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\backgrounds\bgPurple.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Apple.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Banana.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\igrajOpet.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Odustani.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\plantBullet.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Floor.jpg
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Floor2.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Floor3.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\ghostSheet.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\GrassBlock.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\GrassBlock2.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\GrassBlock3.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\GrassBlockBig.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\GrassBlockBig2.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\GrassBlockBig3.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\GrassPlatform.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\GrassPlatformShort.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Loading.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\frogSheet.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\plantSheet.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Spikes.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Melon.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\Saw.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\trunkBullet.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\trunkSheet.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\turtleSheet.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\WallLeft.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\WallLeft2.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\WallLeft3.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\WallRight.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\WallRight2.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\WallRight3.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\WoodPlatform.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\sprites\WoodPlatformShort.png
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\OTTER.exe.config
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\OTTER.xml
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\OTTER.exe
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\bin\Debug\OTTER.pdb
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+A:\Faks\2.godina\Objektno orijentirano prog\Igrica-OOP\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
